@@ -22,3 +22,12 @@ Here is [Google](https://google.com/) Link
 ### Unorder List 
 - First Item
 - Second Item
+
+
+### Code
+```
+for (let i - 0; i<6; i++){
+}
+```
+
+If we just want to write a line `i === 0`
